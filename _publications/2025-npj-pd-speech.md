@@ -2,7 +2,7 @@
 title: "A novel fusion architecture for detecting Parkinson’s Disease using semi-supervised speech embeddings"
 collection: publications
 permalink: /publication/npj-pd-speech/
-date: 2025-08-01
+date: 2025-06-20
 venue: "npj Parkinson’s Disease"
 authors: "Tariq Adnan, Abdelrahman Abdelkader, Zipei Liu, Ekram Hossain, Sooyong Park, Md Saiful Islam, Ehsan Hoque"
 paperurl: "https://www.nature.com/articles/s41531-025-00956-7"
