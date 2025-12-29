@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "T M Tariq Adnan"
 title_separator          : "-"
 name                     : &name "T M Tariq Adnan"
-description              : "PhD candidate in Computer Science at the University of Rochester, building multimodal AI and LLM-powered systems for remote Parkinson’s disease screening and management."
+description              : &description "PhD candidate in Computer Science at the University of Rochester"
 url                      : https://tmadnan.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,12 +24,10 @@ repository               : "tmadnan/tmadnan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "T M Tariq Adnan"
   pronouns         : # example: "she/her"  
   bio              : >
     PhD candidate in Computer Science (ROC-HCI Lab, University of Rochester).
-    I build multimodal AI and LLM-driven tools for accessible Parkinson’s disease screening
-    and longitudinal symptom management.
   location         : "Rochester, NY, USA"
   employer         : "University of Rochester"
   role             : "PhD Candidate, ROC-HCI Lab"
