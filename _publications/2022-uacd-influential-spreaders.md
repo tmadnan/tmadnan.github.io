@@ -1,7 +1,8 @@
 ---
 title: "UACD: A Local Approach for Identifying the Most Influential Spreaders in Twitter in a Distributed Environment"
 collection: publications
-permalink: /publication/uacd-influential-spreaders/
+category: manuscripts
+permalink: /publication/uacd-influential-spreaders
 date: 2022-02-20
 venue: "Social Network Analysis and Mining"
 authors: "T M Tariq Adnan, Md Saiful Islam, Tarikul Islam Papon, Shourav Nath, Muhammad Abdullah Adnan"
