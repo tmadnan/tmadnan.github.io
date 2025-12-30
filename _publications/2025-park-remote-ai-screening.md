@@ -1,7 +1,8 @@
 ---
 title: "PARK: Remote AI Screening for Parkinson’s Disease"
 collection: publications
-permalink: /publication/park-remote-ai-pd/
+category: preprints
+permalink: /publication/park-remote-ai-pd
 date: 2025-06-26
 venue: "Preprint (PMC / AI Screening)"
 authors: "Tariq Adnan, Md Saiful Islam, Abdelrahman Abdelkader, Zipei Liu, Evelyn Ma, Sooyong Park, Asif Azad, Pai Liu, Meghan Pawlik, Emily Hartman, Erin Shelton, Kristina B Larson, M Saifur Rahman, Cathe Schwartz, Karen Jaffe, Jamie L Adams, Ruth B Schneider, Jan Freyberg, E Ray Dorsey, Ehsan Hoque"
