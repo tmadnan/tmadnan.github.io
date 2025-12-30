@@ -1,7 +1,8 @@
 ---
 title: "A user-centered framework to empower people with parkinson's disease"
 collection: publications
-permalink: /publication/imwut-pd-validation/
+category: conferences
+permalink: /publication/imwut-pd-validation
 date: 2024-01-12
 venue: "IMWUT"
 authors: "Wasifur Rahman, Abdelrahman Abdelkader, Sangwu Lee, Phillip Yang, Md Saiful Islam, Tariq Adnan, Masum Hasan, Ellen Wagner, Sooyong Park, E Ray Dorsey, Catherine Schwartz, Karen Jaffe, Ehsan Hoque"
