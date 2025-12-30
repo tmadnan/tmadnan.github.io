@@ -1,7 +1,8 @@
 ---
 title: "Accessible, at-home detection of Parkinson’s disease via multi-task video analysis"
 collection: publications
-permalink: /publication/aaai-ufnet/
+category: conferences
+permalink: /publication/aaai-ufnet
 date: 2025-04-11
 venue: "AAAI"
 authors: "Md Saiful Islam, Tariq Adnan, Jan Freyberg, Sangwu Lee, Abdelrahman Abdelkader, Meghan Pawlik, Cathe Schwartz, Karen Jaffe, Ruth B Schneider, Ray Dorsey, Ehsan Hoque"
