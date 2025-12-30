@@ -1,7 +1,8 @@
 ---
 title: "Hi5: 2D Hand Pose Estimation with Zero Human Annotation"
 collection: publications
-permalink: /publication/hi5-2d-handpose/
+category: conferences
+permalink: /publication/hi5-2d-handpose
 date: 2024-06-05
 venue: "arXiv"
 authors: "Masum Hasan, Cengiz Ozel, Nina Long, Alexander Martin, Samuel Potter, Tariq Adnan, Sangwu Lee, Amir Zadeh, Ehsan Hoque"
