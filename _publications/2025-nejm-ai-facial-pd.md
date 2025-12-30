@@ -1,7 +1,8 @@
 ---
 title: "AI-Enabled Parkinson’s Disease Screening Using Smile Videos"
 collection: publications
-permalink: /publication/nejm-ai-facial-pd/
+category: manuscripts
+permalink: /publication/nejm-ai-facial-pd
 date: 2025-06-26
 venue: "NEJM AI"
 authors: "Tariq Adnan, Md Saiful Islam, Sangwu Lee, EM Wasifur Rahman Chowdhury, Sutapa Dey Tithi, Kazi Noshin, Md Rayhanul Islam, Imran Sarker, M Saifur Rahman, Ruth B Schneider, Jamie L Adams, E Ray Dorsey, Ehsan Hoque"
