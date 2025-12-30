@@ -1,7 +1,8 @@
 ---
 title: "Fast, Scalable and Geo-Distributed PCA for Big Data Analytics"
 collection: publications
-permalink: /publication/geo-distributed-pca/
+category: manuscripts
+permalink: /publication/geo-distributed-pca
 date: 2021-01-06
 venue: "Information Systems"
 authors: "T. M. Tariq Adnan, Md. Mehrab Tanjim, Muhammad Abdullah Adnan"
