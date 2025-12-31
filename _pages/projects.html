@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Research Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign category_order = "inprogress,published" | split: "," %}
+
+{% for cat in category_order %}
+  {% assign title_shown = false %}
+  {% assign filtered_projects = site.projects | where: "category", cat %}
+  {% assign sorted_projects = filtered_projects | sort: "order" %}
+
+  {% for post in sorted_projects %}
+    {% unless title_shown %}
+      <h2>{{ site.project_category[cat].title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
+
+

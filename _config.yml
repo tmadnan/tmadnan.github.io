@@ -24,7 +24,7 @@ repository               : "tmadnan/tmadnan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "T M Tariq Adnan"
+  name             : "Tariq Adnan"
   pronouns         : # example: "she/her"  
   bio              : >
     PhD candidate in Computer Science (ROC-HCI Lab, University of Rochester).
@@ -45,7 +45,7 @@ author:
   # Social media
   facebook         : # Username
   flickr           : # Username
-  linkedin         : https://www.linkedin.com/in/tariq-adnan-154349137/
+  linkedin         : tariq-adnan-154349137
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -57,6 +57,13 @@ publication_category:
     title: 'Conference Papers'
   preprints:
     title: 'Preprints'
+
+# Project Category - The following the list of project categories and their headings
+project_category:
+  published:
+    title: 'Published'
+  inprogress:
+    title: 'In Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -200,6 +207,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -240,7 +250,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS
@@ -250,7 +268,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -285,12 +303,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -310,3 +328,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+debug: true

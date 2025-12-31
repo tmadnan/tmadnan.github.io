@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can download my latest CV here:
+<iframe src="../files/Resume_Tariq_Dec_2025.pdf" width="90%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+You can download a PDF copy of my CV [here](../files/Resume_Tariq_Dec_2025.pdf).
 
-[Download CV](../files/Tariq_Adnan_CV.pdf)
