@@ -7,8 +7,8 @@ layout: single
 author_profile: true
 year: 2025
 order: 1
-publication: "PMC Preprint"
-paperurl: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12270200/"
+publication: "Communications Medicine (2026)"
+paperurl: "https://www.nature.com/articles/s43856-026-01606-6"
 ---
 
 We developed **PARK**, a multimodal AI-driven remote screening tool that identifies Parkinson’s disease from webcam-based recordings of speech, facial expression, and motor tasks. PARK was evaluated across three independent datasets spanning supervised and unsupervised settings, demonstrating strong classification performance and high usability in diverse populations. <!--more-->

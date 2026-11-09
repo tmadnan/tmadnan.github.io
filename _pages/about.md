@@ -46,6 +46,10 @@ Before starting my PhD, I served as an Assistant Professor in the Department of 
 ## Recent Highlights
 <div markdown="1" style="font-size: 0.9em;">
 
+- **Jul 2026:** *NeuroSift* quality-assurance framework for remote PD recordings published in **Journal of Medical Internet Research**.
+- **May 2026:** *Validation of Remote Multimodal AI Screening for PD* (PARK) published in **Communications Medicine**.
+- **May 2026:** *Multimodal Remote Digital Phenotyping in LRRK2 Carriers* posted on **Research Square**.
+- **Feb 2026:** *Benchmarking Video Foundation Models for Remote PD Screening* accepted at **MICCAI 2026**.
 - **Dec 2025:** Invited to present our *NEJM AI* work at NYU Langone Health (March 2026).
 - **Oct 2025:** *Hi5: Synthetic Data for Hand Pose Estimation* accepted at **ACII 2025**.
 - **Jun 2025:** *AI-Enabled PD Screening Using Smile Videos* published in **NEJM AI**.
